@@ -22,6 +22,10 @@
 		{
 			"Name": "AlembicImporter",
 			"Enabled": false
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
 		}
 	]
 }
